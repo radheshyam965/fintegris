@@ -1,0 +1,4 @@
+tx_id,date,vendor,amount,description
+TX001,2026-08-12,AWS,45000,Cloud services
+TX002,2026-08-12,ABC Supplies,12500,Office supplies
+TX003,2026-08-13,XYZ Services,85000,Consulting
